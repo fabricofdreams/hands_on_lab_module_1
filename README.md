@@ -1,2 +1,3 @@
-# hands_on_lab_module_1
-Analyzing Historical Stock/Revenue Data and Building a Dashboard.
+# Analyzing Historical Stock/Revenue Data and Building a Dashboard.
+
+This is the jupyter notebook of the module 1 hands_on lab.
